@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm starting to code, so i don't decided yet if i prefer front or back end
-- 🌱 I'm currently learning HTML5 and CSS3
+- 🌱 I'm currently learning HTML5/CSS3/JS
 
 <div>
   <a href="github.com/harveeyrr">
