@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm starting learning to code, so i don't decided yet if i prefer front or back end
+- 🔭 I'm starting to code, so i don't decided yet if i prefer front or back end
 - 🌱 I'm currently learning HTML5 and CSS3
 
 <div>
