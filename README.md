@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**harveeyrr/harveeyrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm starting learning to code, so i don't decided yet if i prefer front or back end
+- 🌱 I'm currently learning HTML5 and CSS3
 
-Here are some ideas to get you started:
+<div>
+  <a href="github.com/harveeyrr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harveeyrr&show_icons=true&theme=tokyonight&include_all_commits=true&count_stars=true"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Harveey-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Harveey-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Harveey-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Harveey-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+</div>
+  
+##
+  
+<div>
+  <a href="https://www.youtube.com/channel/UC-sDAntGumT3xtR40Hqj6Pg" target="__blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="blank"></a>
+  <a href="https://twitch.tv/harveey11" target="__blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="blank"></a>
+  <a href="https://twitter.com/harv0000" target="__blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="blank"></a>
+  <a href="https://instagram.com/joaovkt_" target="__blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
+  <a href="https://open.spotify.com/user/ineady" target="__blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="__blank"></a>
+  <a href="https://steamcommunity.com/id/shaawky404" target="__blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="__blank"></a>
+</div>
