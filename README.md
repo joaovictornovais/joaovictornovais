@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I'm starting to code, so i don't decided yet if i prefer front or back end
-- 🌱 I'm currently learning HTML5/CSS3/JS
+- 🔭 I'm a beginner in back-end
+- 🌱 I'm currently learning JAVA ☕
 
 <div>
   <a href="github.com/harveeyrr">
@@ -13,6 +13,7 @@
   <img align="center" alt="Harveey-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Harveey-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Harveey-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Harveey-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
   
 ##
