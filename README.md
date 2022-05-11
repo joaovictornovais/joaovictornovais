@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I'm a beginner in back-end
-- 🌱 I'm currently learning JAVA ☕
+- 🔭 I'm software engineering student
+- 🌱 Currently learning JAVA ☕
 
 <div>
   <a href="github.com/harveeyrr">
