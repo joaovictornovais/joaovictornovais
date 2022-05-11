@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm software engineering student
+- 🔭 I'm a software engineering student
 - 🌱 Currently learning JAVA ☕
 
 <div>
