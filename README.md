@@ -2,7 +2,7 @@
 
 
 ## About me:
--  🌱 **Name**: João Victor
+-  🌱 **Name**: João Victor Novais
 - 🎂 **Age**: 18 years old!
 - 👾 **Living in**: São Paulo - SP, Brazil.
 - ⚡ **Currently learning**: Java
