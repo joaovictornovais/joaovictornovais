@@ -10,6 +10,5 @@
 
 ## Curiosities about me:
 - I don't really like coffee but I love Java (ba dum tss);
-- Minecraft is the reason for my first language be Java, but I abandoned for a long time, and after years I decided to learn it again;
-- I started to love code with 12 years old, for a while I made some KitPvP plugins, but nothing very professional;
+- I started to love code with 12 years old, for a while I made some KitPvP Java plugins, but nothing very professional;
 - I really like to help people :D.
