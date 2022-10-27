@@ -1,7 +1,7 @@
 ![JAVA](https://img.shields.io/badge/java-%23FF2D20.svg?style=for-the-badge&logo=java&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/python-%23FF2D20.svg?style=for-the-badge&logo=python&logoColor=white)
 
-- 📩 **E-mail for contact**: joaovkt.novais@gmail.com
+- 📩 **Contact e-mail**: joaovkt.novais@gmail.com
 
 ## About me:
 -  🌱 **Name**: João Victor Novais
