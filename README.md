@@ -1,6 +1,6 @@
 ### Hi there, I'm João Victor! 👋
 
-- 🔭 I'm currently learning Spring to get my first professional work experience.
+- 🔭 I'm currently learning Spring.
 - ☕ In this profile, we believe in the words of Java!
 - 📩 Feel free to send me an e-mail! **joaovkt.novais@gmail.com**
 
