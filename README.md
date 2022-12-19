@@ -1,7 +1,7 @@
 ### Hi there, I'm João Victor! 👋
 
 - 🔭 I'm currently learning Spring.
-- ☕ In this profile we believe in the words of Java!
+- ☕ In this profile we believe in Java words!
 - 📩 Feel free to send me an e-mail! **joaovkt.novais@gmail.com**
 
 ### Best technologies
