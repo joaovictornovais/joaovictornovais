@@ -1,10 +1,10 @@
-### Hi there, I'm João Victor! 👋
+## Hi there, I'm João Victor! 👋
 
 - 🔭 I'm currently learning Spring.
 - ☕ In this profile we believe in Java words!
 - 📩 Feel free to send me an e-mail! **joaovkt.novais@gmail.com**
 
-### Best technologies
+## Best technologies
 
 <div>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/>
@@ -14,7 +14,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" />
 </div>
 
-### Statistics
+## Statistics
 <div>
   <a href="https://github.com/joaovictornovais">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictornovais&layout=compact&langs_count=7&theme=dark" />
@@ -22,7 +22,7 @@
   </a>
 </div>
 
-### Contacts
+## Contacts
 <div>
   <a href="https://instagram.com/joaovkt_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
