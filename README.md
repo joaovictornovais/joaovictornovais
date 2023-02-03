@@ -1,6 +1,6 @@
 ## Hi there, I'm João Victor! 👋
 
-- 🔭 I'm currently learning Spring.
+- 🔭 I'm currently learning Kotlin/Mobile development.
 - ☕ In this profile we believe in Java words!
 - 📩 Feel free to send me an e-mail! **joaovkt.novais@gmail.com**
 
