@@ -60,6 +60,6 @@
 </div>
 
 ## **🌊 Know me better**
-* 🏋🏽‍♂️ I love to lift weight. *yeaaaa buddyyy!!!*
-* ⚔ In my free time I like to play games, specifically, VALORANT, my elo peek is Immortal
-* 🤓 When I was a kid I wanted to be a computer technician and I had a really bad computer, so I learned **A LOT OF THINGS** *(when i say a lot, i really mean it's **A LOT**)* so if you're have trouble with softwares or bad performance at your computer, I probably can fix that :D
+* 🏋🏽‍♂️ I love to lift weight, *yeaaaa buddyyy!!!*
+* 🔫 In my free time I like to play games, specifically, VALORANT, my elo peek is Immortal
+* 🎮 Soon I pretend to stream at [Twitch](https://twitch.tv/harveey11) games like Valorant and sometimes code/study sessions, follow me :)
