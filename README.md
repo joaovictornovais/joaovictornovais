@@ -13,7 +13,7 @@
 </div>
 
 ## **🐱‍👤 About me**
-* João Victor Novais, 19 years
+* João Victor Novais dos Santos, 19 years
 * Full Stack programmer
 * Currently learning mobile development and NoSQL
 
