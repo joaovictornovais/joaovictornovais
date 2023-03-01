@@ -16,6 +16,7 @@
 * João Victor Novais dos Santos, 19 years
 * Full Stack programmer
 * Currently learning mobile development and NoSQL
+* São Paulo, SP - Brazil
 
 ## **🤺 Skills**
 
