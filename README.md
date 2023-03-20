@@ -15,7 +15,7 @@
 ## **🐱‍👤 About me**
 * João Victor Novais dos Santos, 19 years
 * Full Stack programmer
-* Currently learning Typescript
+* Currently learning back-end development
 * São Paulo, SP - Brazil
 
 ## **🤺 Skills**
