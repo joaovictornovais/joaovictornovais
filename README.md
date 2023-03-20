@@ -15,7 +15,7 @@
 ## **🐱‍👤 About me**
 * João Victor Novais dos Santos, 19 years
 * Full Stack programmer
-* Currently learning back-end development
+* Currently learning back-end development with Spring
 * São Paulo, SP - Brazil
 
 ## **🤺 Skills**
