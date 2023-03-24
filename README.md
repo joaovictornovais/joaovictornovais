@@ -13,7 +13,7 @@
 </div>
 
 ## **🐱‍👤 About me**
-* João Victor Novais dos Santos, 19 years
+* João Victor, 19 years
 * Full Stack programmer
 * Currently learning back-end development with Spring
 * São Paulo, SP - Brazil
@@ -58,8 +58,3 @@
             <img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
             </a>
 </div>
-
-## **🌊 Know me better**
-* 🏋🏽‍♂️ I love to lift weight, *yeaaaa buddyyy!!!*
-* 🔫 In my free time I like to play games, specifically, VALORANT, my elo peek is Immortal
-* 🎮 Soon I pretend to stream at [Twitch](https://twitch.tv/harveey11) games like Valorant and sometimes code/study sessions, follow me :)
