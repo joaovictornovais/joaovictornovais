@@ -13,9 +13,9 @@
 </div>
 
 ## **🐱‍👤 About me**
-* João Victor, 19 years
+* João Victor, 20 years
 * Full Stack programmer
-* Currently learning back-end development with Spring
+* Currently learning Next.JS
 * São Paulo, SP - Brazil
 
 ## **🤺 Skills**
@@ -30,6 +30,7 @@
   <summary>Frameworks and Libraries</summary>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" />
 </details>
 <details>
   <summary>Database</summary>
