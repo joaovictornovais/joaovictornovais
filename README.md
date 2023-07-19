@@ -15,7 +15,7 @@
 ## **🐱‍👤 About me**
 * João Victor, 20 years
 * Full Stack programmer
-* Currently learning Next.JS
+* Currently learning Spring Boot
 * São Paulo, SP - Brazil
 
 ## **🤺 Skills**
