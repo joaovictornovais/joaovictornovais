@@ -1,10 +1,6 @@
-<div align="center">
-<img src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif" width="180" height="180"/>
-</div>
-
-- ❄ Software Engineer focused on Backend Development.
-- 🕵️‍♀️ Studing Cloud, Docker and Tests.
-- 😍 Passionate about lifting heavy weights
+- ❄ Java Back-end Developer;
+- 🕵️‍♀️ Studying Cloud, Docker and Tests;
+- 😍 Passionate about lifting heavy weights.
   
 <h3> 
   <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Cloud%20with%20Rain.png" width="20" height="20" /> Technologies
