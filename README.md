@@ -3,7 +3,7 @@
 - 😍 Passionate about lifting heavy weights.
   
 <h3> 
-  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Cloud%20with%20Rain.png" width="20" height="20" /> Technologies
+  ⛩ Technologies
 </h3>
 <div align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/Java-24273a.svg?style=for-the-badge&logo=java-bold&logoColor=E0144C" alt="Java"/>
