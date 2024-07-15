@@ -1,24 +1,34 @@
-- ❄ Java Back-end Developer;
-- 🕵️‍♀️ Studying Cloud, Docker and Tests;
-- 😍 Passionate about lifting heavy weights.
-  
-<h3> 
-  ⛩ Technologies
-</h3>
+# Hello! I'm João Victor.
+
+- 🎓 Software Engineer student
+- 💻 Currently working as IT Support and Full-Stack Developer at Geniatech
+- ☕ Back-end enthusiast
+- 🌱 Currently learning AWS and Docker
+
 <div align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/Java-24273a.svg?style=for-the-badge&logo=java-bold&logoColor=E0144C" alt="Java"/>
-  <img src="https://img.shields.io/badge/spring-24273a?style=for-the-badge&logo=spring&logoColor=white" alt="Spring boot"/>
-  <img src="https://img.shields.io/badge/react-24273a?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/postgres-24273a?style=for-the-badge&logo=postgresql&logoColor=white alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Python-24273a?logo=python&style=for-the-badge&logoColor=3776AB" alt="Python"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/SQL-24273a.svg?style=for-the-badge&logo=database&logoColor=fea314" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Linux-24273a?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Docker-24273a.svg?style=for-the-badge&logo=docker&logoColor=#2da9e3" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS-24273a?logo=amazon-aws&logoColor=e69f2e&style=for-the-badge" alt="AWS">
-  <img src="https://img.shields.io/badge/kotlin-24273a?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/javascript-24273a?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E alt="JavaScript"/>
-
-
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px" />
+  <a href="https://github.com/joaovictornovais">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictornovais&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictornovais&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div align="center">
+  
+  <div style="display: inline-block;"><br>
+    <h2>Technologies</h2>
+  <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img align="center" alt="postgresql" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="aws" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img align="center" alt="docker" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img align="center" alt="kotlin" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+  <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  
+    
+  
+  <img align="right" alt="joao-gif" height="150" style="border-radius:50px;" src="https://media.tenor.com/zWBiBQrrYsQAAAAj/cat-manhwa.gif">
+</div>
+  
+  ##
+  
