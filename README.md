@@ -1,7 +1,7 @@
 # Hello! I'm João Victor.
 
 - 🎓 Software Engineer student
-- 💻 Currently working as IT Support and Full-Stack Developer at Geniatech
+- 💻 Currently working as Junior Software Engineer at Netcracker
 - ☕ Back-end enthusiast
 - 🌱 Currently learning AWS and Docker
   <div style="display: inline-block;"><br>
