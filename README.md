@@ -3,10 +3,11 @@
 - 🎓 Software Engineer student
 - 💻 Currently working as Junior Software Engineer at Netcracker
 - ☕ Back-end enthusiast
-- 🌱 Currently learning AWS and Docker
+- 🌱 Currently learning Go
   <div style="display: inline-block;"><br>
     <h2>Technologies</h2>
   <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
   <img align="center" alt="spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img align="center" alt="postgresql" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="aws" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
