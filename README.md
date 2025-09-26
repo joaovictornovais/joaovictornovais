@@ -1,6 +1,8 @@
 # Hey, there. I'm João Victor.
 
 - 💻 Currently working as Junior Software Engineer @ Netcracker
+- ✉️ Get in touch: joaovkt.novais@gmail.com
+  
   <div style="display: inline-block;"><br>
     <h2>Technologies</h2>
   <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
