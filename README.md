@@ -1,9 +1,6 @@
-# Hello! I'm João Victor.
+# Hey, there. I'm João Victor.
 
-- 🎓 Software Engineer student
-- 💻 Currently working as Junior Software Engineer at Netcracker
-- ☕ Back-end enthusiast
-- 🌱 Currently learning Go
+- 💻 Currently working as Junior Software Engineer @ Netcracker
   <div style="display: inline-block;"><br>
     <h2>Technologies</h2>
   <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
