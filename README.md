@@ -1,6 +1,6 @@
 # Hey, there. I'm João Victor.
 
-- 💻 Currently working as Junior Software Engineer @ Netcracker
+- 💻 Currently working as Software Engineer @ BCG X
 - ✉️ Get in touch: joaovkt.novais@gmail.com
   
   <div style="display: inline-block;"><br>
